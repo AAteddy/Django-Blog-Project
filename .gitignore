@@ -1,2 +1,5 @@
 # Ignore project virtiual environment
 django_env/
+
+# Ignore project vscode workspace
+Django_blog.code-workspace
