@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # Third party added apps
     "blog.apps.BlogConfig",
     "users.apps.UsersConfig",
+    "crispy_forms",
 ]
 
 MIDDLEWARE = [
