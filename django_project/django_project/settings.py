@@ -133,3 +133,6 @@ CRISPY_TEMPLATE_PACK = "bootstrap4"
 
 # redirecting login user to home page
 LOGIN_REDIRECT_URL = "blog-home"
+
+# redirecting users accessing profile page to login page (login_required functionality)
+LOGIN_URL = "login"
